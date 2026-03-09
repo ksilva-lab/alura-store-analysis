@@ -54,3 +54,10 @@ A principal justificativa para essa decisão é que a Loja 4 apresenta o menor f
 Embora a Loja 4 possua o menor custo médio de frete e uma avaliação de clientes satisfatória, esses fatores não foram suficientes para compensar seu baixo volume de vendas. Além disso, as demais lojas apresentam melhor desempenho financeiro, mantendo níveis semelhantes de satisfação dos clientes e padrões de vendas por categoria.
 
 Dessa forma, a venda da Loja 4 permitiria ao Senhor João concentrar recursos nas unidades com melhor desempenho, otimizando a gestão da rede e liberando capital para investir em seu novo empreendimento.
+
+## Autor
+Kaique Silva
+
+https://www.linkedin.com/in/kaique-silva-134457157/
+
+https://github.com/ksilva-lab/Laranjas-e-Toranjas/edit/main

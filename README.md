@@ -47,5 +47,10 @@ As categorias móveis e eletrônicos concentram maior volume de vendas
 A Loja 3 apresenta melhor avaliação média dos clientes
 
 ## Conclusão
+Com base nas análises realizadas, recomenda-se que o Senhor João considere vender a Loja 4.
 
-Com base na análise dos dados, recomenda-se a venda da Loja 4, pois ela apresenta o menor faturamento entre as unidades analisadas, indicando menor desempenho comercial dentro da rede.
+A principal justificativa para essa decisão é que a Loja 4 apresenta o menor faturamento total entre todas as unidades da rede, indicando um desempenho financeiro inferior em comparação às demais lojas.
+
+Embora a Loja 4 possua o menor custo médio de frete e uma avaliação de clientes satisfatória, esses fatores não foram suficientes para compensar seu baixo volume de vendas. Além disso, as demais lojas apresentam melhor desempenho financeiro, mantendo níveis semelhantes de satisfação dos clientes e padrões de vendas por categoria.
+
+Dessa forma, a venda da Loja 4 permitiria ao Senhor João concentrar recursos nas unidades com melhor desempenho, otimizando a gestão da rede e liberando capital para investir em seu novo empreendimento.
